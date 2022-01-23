@@ -1,4 +1,4 @@
-### Oi, eu sou Lucas Alves!!
+### Oi, bem-vindo ao meu perfil!!
 - 🔭 Estudande de desenvolvimento web na [Trybe](https://www.betrybe.com/)!
 - 😄 Pronouns: Ele/Dele
 <div>
