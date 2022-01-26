@@ -1,7 +1,7 @@
 ### Oi, bem-vindo ao meu perfil!!
 - 🔭 Estudande de desenvolvimento web na [Trybe](https://www.betrybe.com/)!
 - 😄 Pronouns: Ele/Dele
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/lucasdoloh0v">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasdoloh0v&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdoloh0v&layout=compact&langs_count=7&theme=dark"/>
