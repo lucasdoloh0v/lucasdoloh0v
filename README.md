@@ -1,6 +1,4 @@
 ### Oi, bem-vindo ao meu perfil!!
-- 🔭 Estudande de desenvolvimento web na [Trybe](https://www.betrybe.com/)!
-- :rocket: Desenvolvedor front-end na [Nave.rs](https://nave.rs/)
 - 😄 Pronouns: Ele/Dele
 <div>
   <a href="https://github.com/lucasdoloh0v">
