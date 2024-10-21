@@ -1,5 +1,3 @@
-### Oi, bem-vindo ao meu perfil!!
-- 😄 Pronouns: Ele/Dele
 <div>
   <a href="https://github.com/lucasdoloh0v">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucasdoloh0v&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
